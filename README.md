@@ -38,4 +38,4 @@ Power BI management dashboard with KPI cards, maps, filters, channel analysis, m
 
 ## Connect
 
-[Portfolio](https://sites.google.com/view/raneemalzahrany/home) · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/)
+[Portfolio](https://raneem-career-portfolio.rraaneemalzahrany-ra.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/)
