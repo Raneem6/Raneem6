@@ -20,7 +20,7 @@ AI-powered n8n workflow that accepts job-search preferences and optional CV inpu
 ### [Power BI Sales Analysis Dashboard](https://github.com/Raneem6/Sales-Data-Analysis-Dashboard)
 Interactive Power BI analysis covering sales trends, customers, products, channels, locations, and employee performance.
 
-### [Excel Sales Performance Dashboard](https://github.com/Raneem6/-Sales-Performance-Dashboard-Excel-Project-)
+### [Excel Sales Performance Dashboard](https://github.com/Raneem6/Excel-Sales-Performance-Dashboard)
 Excel reporting project with KPI monitoring, sales-team analysis, advertising-spend views, slicers, and dedicated Light/Dark dashboard versions.
 
 ### [Interactive Excel Sales Dashboard](https://github.com/Raneem6/interactive-sales-dashboard-excel)
@@ -29,7 +29,7 @@ Interactive Excel dashboard covering sales KPIs, customer and product analysis, 
 ### [Excel Sales Analysis Dashboard](https://github.com/Raneem6/Sales-Analysis-With-Excel)
 Excel-based sales analysis using PivotTables, slicers, and dynamic charts.
 
-### [Power BI Sales Performance Dashboard](https://github.com/Raneem6/Power-BI-Dashboard--Educational-Project-)
+### [Power BI Sales Performance Dashboard](https://github.com/Raneem6/Power-BI-Sales-Performance-Dashboard)
 Power BI management dashboard with KPI cards, maps, filters, channel analysis, monthly trends, and department-level reporting.
 
 ## Tools
